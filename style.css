@@ -25,6 +25,9 @@ header{
     color: black;
     font-family: Verdana;
 }
+img{
+width: 512px;
+}
 footer{
     background-color: rgb(56,74,54);
     position: absolute;
